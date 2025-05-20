@@ -1,1 +1,1 @@
-# Java-Script-operadores-ten-rios
+# Curso de JavaScript Necessario
