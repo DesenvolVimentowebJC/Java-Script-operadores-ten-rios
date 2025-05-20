@@ -1,1 +1,1 @@
-# Curso de JavaScript Necessario
+# Curso de JavaScript Necessário
